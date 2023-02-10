@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">valgfagCalculator_spinner</string>
+
+    <array name="OperatorSpinnerItem">
+        <item>+</item>
+        <item>-</item>
+        <item>*</item>
+        <item>/</item>
+
+    </array>
+
+
 </resources>
